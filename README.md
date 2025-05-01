@@ -2,8 +2,8 @@
 
 ## Menu
 
-- [Link example](test.md)
+- [Link example](test)
 
-	[Another test](test.md)
+	[Another test](test)
 
 Coming soon.
