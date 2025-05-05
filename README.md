@@ -1,6 +1,6 @@
 # finnish-tutorial
 
-Coming soon.
+Homepage: https://enfrte.github.io/finnish-tutorial/
 
 ## Menu
 

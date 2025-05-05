@@ -5,7 +5,7 @@ title: Perfect tense
 
 ## Perfect tense (Finnish: perfekti)
 
-Expressing the perfect tense with adjectives (good, bad, sick...)
+**Expressing the perfect tense with adjectives (good, bad, sick...)**
 
 | Kirjakieli (standard)  | Puhekieli (spoken)   | English                  |
 | ---------------------- | -------------------- | ------------------------ |
@@ -21,7 +21,7 @@ Koira on ollut hyvä = The dog has been good.
 
 Koirat ovat olleet hyviä. = The dogs have been good.
 
-Expressing the perfect tense with verbs 
+**Expressing the perfect tense with verbs**
 
 | Person | Kirjakieli                           | Puhekieli                          | English                        |
 | ------ | ------------------------------------ | ---------------------------------- | ------------------------------ |
@@ -33,13 +33,13 @@ Expressing the perfect tense with verbs
 | 3rd pl | He ovat vierailleet ystävien luona   | Ne on vierailtu ystävien luona     | They’ve been visiting friends  |
 
 
-#### General perfect tense structure (active voice):
+### General perfect tense structure (active voice):
 
 [subject] + olla (present) + [main verb in past participle]
 
 The object of the verb is in the genitive form because it shows completion. 
 
-Examples with different verbs:
+**Examples with different verbs:**
 
 | Verb           | Singular (1st person) | English                |
 | -------------- | --------------------- | ---------------------- |
