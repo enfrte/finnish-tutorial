@@ -4,9 +4,7 @@ Coming soon.
 
 ## Menu
 
-- [Link example](test)
-
-	[Another test](test)
+	[Perfect tense (I have been...)](perfect_tense)
 
 ## About 
 
